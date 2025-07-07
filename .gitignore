@@ -1,0 +1,16 @@
+# Ignore Python virtual environments
+texttosql/
+
+# Ignore environment variable files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database (optional, if you don't want to track the DB file)
+# employee.db
+
+# VSCode settings (optional)
+.vscode/ 
